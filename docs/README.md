@@ -99,7 +99,7 @@ Holding NFT as a pass to Samsara Metavers would be a good idea, but in order to 
 
 ## Roadmap
 
-We will advance or delay the timeline according to the actual situation and do our best to ensure that the game is sustainable
+We will advance or delay the timeline according to the actual situation and do our best to ensure that the project is sustainable
 
 ### Q3 2022
 - Project idea

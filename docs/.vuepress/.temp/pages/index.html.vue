@@ -59,7 +59,7 @@
 <p>Holding NFT as a pass to Samsara Metavers would be a good idea, but in order to embrace the traditional world more broadly, we hope that our NFT should not be the only threshold, but should emerge as an important asset in the metaverse. As with the game's rare props, these simulations will be tested first through GamFi</p>
 <h3 id="more-empowerment-looks-forward-to-your-building-and-participation" tabindex="-1"><a class="header-anchor" href="#more-empowerment-looks-forward-to-your-building-and-participation" aria-hidden="true">#</a> More empowerment looks forward to your building and participation...</h3>
 <h2 id="roadmap" tabindex="-1"><a class="header-anchor" href="#roadmap" aria-hidden="true">#</a> Roadmap</h2>
-<p>We will advance or delay the timeline according to the actual situation and do our best to ensure that the game is sustainable</p>
+<p>We will advance or delay the timeline according to the actual situation and do our best to ensure that the project is sustainable</p>
 <h3 id="q3-2022" tabindex="-1"><a class="header-anchor" href="#q3-2022" aria-hidden="true">#</a> Q3 2022</h3>
 <ul>
 <li>Project idea</li>
