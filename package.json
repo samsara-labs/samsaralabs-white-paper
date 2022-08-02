@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  },
+  "name": "samsaralabs-white-paper",
+  "version": "1.0.0",
+  "description": "A WhitePaper of Samsara Labs",
+  "main": "index.js",
+  "repository": "https://github.com/samsara-labs/samsaralabs-white-paper.git",
+  "author": "samsara_v <samsaralabs@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
